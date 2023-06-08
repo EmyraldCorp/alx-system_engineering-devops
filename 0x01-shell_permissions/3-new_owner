@@ -1,2 +1,2 @@
 #!/bin/bash
-Change betty hello
+chown betty hello
